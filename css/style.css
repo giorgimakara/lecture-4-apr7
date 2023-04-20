@@ -1,0 +1,50 @@
+.mysection{
+	width: 100%;
+}
+.container
+{
+	width: 1170px;
+	margin: 0 auto;
+}
+
+h2{	font-weight: bold;
+	font-size: 24px;
+	margin-bottom: 32px;
+}
+.left-card, .right-card{
+	background-color: lightgray;
+	width: 570px;
+	height: 225px;
+	display: inline-block;
+	vertical-align: top;
+
+	padding-top: 18px;
+	padding-right: 14px;
+	padding-bottom: 42px;
+	padding-left: 40px;
+}
+.left-card{
+	margin-right: 26px;
+}
+
+h3 {
+	font-weight: bold;	
+	font-size: 22px;
+	color: #3d58a6;
+	margin-bottom: 20px;
+}
+
+img
+{
+	display: inline-block;
+	margin-bottom: 60px;
+	vertical-align: bottom;
+}
+
+p {	
+	vertical-align: top;
+	font-size: 20px;
+	display: inline-block;
+	width: 356px;
+	height: 143px;
+}

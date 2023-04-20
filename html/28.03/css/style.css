@@ -1,0 +1,58 @@
+.box{
+	margin: 10px;
+}
+.logo{
+	display: inline-block; 
+	}
+.nav-links{
+	text-align: center;
+	display: inline-block;
+	margin-left: 20px;
+}
+.nav-links li{
+	display: inline-block;
+	margin: 2px;
+	color: blue;
+	text-decoration: none;
+}
+#active
+{color: red}
+.date{
+	font-size: 20px;
+	width: 50px;
+	height: 50px;
+	color: white;
+	background-color: skyblue;
+	display: inline-block;
+	text-align: center;
+	padding-top: 15px;
+}
+p{
+	color: red;
+}
+.google-map{padding-bottom: 50%;
+     position: relative;
+}
+
+.google-map iframe {
+     height: 50%;
+     width: 50%;
+     left: 0;
+     top: 0;
+     position: absolute;
+}
+#box{
+	width: 500px;
+}
+.textbox{
+		width: 500px;
+		display: inline-block;
+}
+#picbox{
+	
+	display: inline-block;
+	position: relative; 
+	width: 350px;	
+	height: 350px;
+	
+}
